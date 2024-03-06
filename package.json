@@ -12,6 +12,6 @@
   },
   "private": true,
   "dependencies": {
-
+    "typescript": "^5.3.3"
   }
 }
